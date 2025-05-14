@@ -10,6 +10,8 @@ It was developed using MySQL Workbench 8.0 and includes key constraints and rela
 
 ## ⚙️ How to Set Up / Run the Project
 
+## ERD Link: https://drive.google.com/file/d/1RtpSLl9ITFDe82o8ryxcmYYPsAs5JPUu/view?usp=drive_link
+
 ### Step 1: Create the Database
 Open MySQL Workbench and run:
 
@@ -17,4 +19,3 @@ Open MySQL Workbench and run:
 CREATE DATABASE librarydb;
 USE library_db;
 
-## ERD Link: https://drive.google.com/file/d/1RtpSLl9ITFDe82o8ryxcmYYPsAs5JPUu/view?usp=drive_link
